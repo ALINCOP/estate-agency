@@ -1,0 +1,27 @@
+   
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+
+    }
+    
+     .jumbotron {
+      margin-bottom: 0;
+    }
+
+    .img-responsive
+    {
+      max-height: 182px;
+      
+    }
+
+    .active-admin
+    {
+      font-weight: bold;
+      
+    }
+   
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
