@@ -1,9 +1,14 @@
 # estate-agency
 Simple web site with admin panel
 
-#Photos
+# Photos
+
 ![Screenshot](web_vanzari.png)
-Responsive:
+
+# Responsive:
+
 ![Screenshot](responsive_vanzari.png)
-Admin panel:
+
+# Admin panel:
+
 ![Screenshot](admin_panel.png)
